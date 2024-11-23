@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 22-11-2024
+## Date: 23-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -363,7 +363,7 @@ mmmhospital.html
 ## OUTPUT
 
 
-![alt text](<Screenshot (38).png>) 
+![alt text](<Screenshot (38).png>)
 
 ![alt text](<Screenshot (33).png>) 
 
