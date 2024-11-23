@@ -363,7 +363,7 @@ mmmhospital.html
 ## OUTPUT
 
 
-![alt text](<Screenshot (32).png>) 
+![alt text](<Screenshot (38).png>) 
 
 ![alt text](<Screenshot (33).png>) 
 
