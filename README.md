@@ -64,6 +64,7 @@ home.html
 Gandhi Nagar.html
 <html>
     <body>
+        <img src ="c:\Users\admin\OneDrive\Pictures\Screenshots\E682PI_1644916706251_0.jpeg" height="300" width="500">
         <font size="10">
             <li>"Gandhi Nagar is famous in vellore for many street food and many Theatre and also famous for VIT(vellore institute of technology)"</li>
             <li>"Situated approximately 8 km from the town center, it covers an area of 8 km² and had a population of 21,889 as per the 2011 Census"</li>
@@ -73,6 +74,7 @@ Gandhi Nagar.html
 Vellore Fort.html
 <html>
     <body>
+        <img src="c:\Users\admin\OneDrive\Pictures\Screenshots\548011903Vellore_Fort_Main.jpg" height="300" width="500">
         <font size="10">            
             <li>"Vellore Fort is a large 16th-century fort situated in heart of the Vellore city, in the state of Tamil Nadu, India built by the Emperors of Vijayanagara"</li>
             <li>"Vellore Fort was built by Chinna Bommi Yadhava Nayak and Thimma Yadhava Nayak, subordinate chieftains under emperor Sadasiva Raya of the Vijayanagara Empire in the year 1566 CE"</li>
@@ -82,6 +84,7 @@ Vellore Fort.html
 CMC.html
 <html>
     <body>
+        <img src ="c:\Users\admin\Downloads\download.jpeg" height="300" width="500">
         <font size="10">
             <li>"Christian Medical College Vellore widely known as CMC Vellore is a private Christian minority community-run medical college and hospital in Vellore, Tamil Nadu, India"</li>
             <li>"The hospital was founded by Dr. Ida Sophia Scudder in 1900. Ida Scudder was the daughter of second-generation medical missionaries from the Dutch Reformed Church in the United States of America (US) who served in India"</li>
@@ -91,6 +94,7 @@ CMC.html
 VIT.html
 <html>
     <body>
+        <img src="c:\Users\admin\Downloads\download (1).jpeg"
         <font size="10">
             <li>"Vellore Institute of Technology or VIT is a private deemed university in Vellore, Tamil Nadu, India"</li>
             <li>"The university has board of management, academic council and Finance committee. G. Viswanathan is the founder-chancellor of VIT and all its sister universities. The campus spans over 372 acres"</li>
