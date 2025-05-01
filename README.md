@@ -41,7 +41,7 @@ map.html
         </h1>
         <h3 align="center">JUDE CLEMENT JOSE G (212224230109)</h3>
         <center>
-        <img src="c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-04-22 100519.png" usemap="#MyCity" height="610" width="1450">
+        <img src="sample.png.jpg" usemap="#MyCity" height="610" width="1450">
         <map name="MyCity">
             <area shape="rect" title="My Home Town" href="home.html" coords="700,250,850,400" shape="rect">
             <area shape="rect" title="Gandhi Ngar" href="Gandhi Nagar.html" coords="570,230,450,600" shape="rect">
@@ -95,7 +95,7 @@ VIT.html
 <html>
     <body>
         <img src="c:\Users\admin\Downloads\download (1).jpeg"
-        <font size="10">
+        <font size="50">
             <li>"Vellore Institute of Technology or VIT is a private deemed university in Vellore, Tamil Nadu, India"</li>
             <li>"The university has board of management, academic council and Finance committee. G. Viswanathan is the founder-chancellor of VIT and all its sister universities. The campus spans over 372 acres"</li>
         </font>
@@ -103,13 +103,12 @@ VIT.html
 </html>
 ~~~
 ## OUTPUT
-![Screenshot 2025-04-22 110540](https://github.com/user-attachments/assets/7199de54-c2bd-4a4d-8d4e-8d0c4b90df59)
-![Screenshot 2025-04-22 110555](https://github.com/user-attachments/assets/0c8b528d-6085-4ecd-9d22-51ab5bcd28eb)
-![Screenshot 2025-04-22 105957](https://github.com/user-attachments/assets/664fa483-8b01-4c59-85db-07e78cf9c489)
-![Screenshot 2025-04-22 110051](https://github.com/user-attachments/assets/f6e3e08f-2e3d-46b0-9eb3-fdb4aacd09dc)
-![Screenshot 2025-04-22 110111](https://github.com/user-attachments/assets/e7613a61-c615-4432-b894-1c3c0d9f3f68)
-![Screenshot 2025-04-22 110132](https://github.com/user-attachments/assets/9bc0eaa4-c246-4529-8ed8-96b2641b2224)
-![Screenshot 2025-04-22 110209](https://github.com/user-attachments/assets/8cc257c8-0420-4435-a754-7190716801bb)
+![Screenshot 2025-05-01 220729](https://github.com/user-attachments/assets/3bbe402b-f5b2-4c9f-aef7-c1588c16ce77)
+![Screenshot 2025-05-01 220746](https://github.com/user-attachments/assets/08ac3a73-880c-4b1b-98db-834726de360a)
+![Screenshot 2025-05-01 220803](https://github.com/user-attachments/assets/63e34f94-99e0-4311-b8c7-b37d86180615)
+![Screenshot 2025-05-01 220817](https://github.com/user-attachments/assets/341ed587-151b-4011-8c49-17b035e76db4)
+![Screenshot 2025-05-01 220909](https://github.com/user-attachments/assets/42040311-99a1-4b66-b751-4ded633dedf2)
+
 
 
 
