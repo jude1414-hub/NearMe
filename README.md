@@ -102,6 +102,14 @@ VIT.html
     </body>
 </html>
 ~~~
+~~~
+from django.shortcuts import render
+
+from django.http import HttpResponse
+
+def home(request):
+    return render(request,'web4.html')
+~~~
 ## OUTPUT
 ![Screenshot 2025-05-01 220729](https://github.com/user-attachments/assets/3bbe402b-f5b2-4c9f-aef7-c1588c16ce77)
 ![Screenshot 2025-05-01 220746](https://github.com/user-attachments/assets/08ac3a73-880c-4b1b-98db-834726de360a)
