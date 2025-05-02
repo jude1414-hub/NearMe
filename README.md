@@ -437,17 +437,17 @@ mmmhospital.html
 
 ## OUTPUT
 
-![alt text](image.png)  
+ ![alt text](map.png)  
 
-![alt text](<Screenshot (33).png>)  
+ ![alt text](crm.png)  
 
-![alt text](<Screenshot (34).png>)  
+ ![alt text](mmm.png)  
 
-![alt text](<Screenshot (35).png>)  
+ ![alt text](ro.png)  
 
-![alt text](<Screenshot (36).png>)  
+ ![alt text](ss.png)  
 
-![alt text](<Screenshot (37).png>)  
+ ![alt text](vr.png)
 
 
 ## RESULT
