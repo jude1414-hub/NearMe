@@ -25,15 +25,12 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-<<<<<<< HEAD
+
 ```
-map.html
-=======
-~~~
 Name : Jude Clement Jose G
 Register Number : 212224230109
-~~~
-~~~
+```
+```
 map.html
 <html>
     <head>
@@ -105,14 +102,8 @@ VIT.html
         </font>
     </body>
 </html>
-~~~
-~~~
-from django.shortcuts import render
->>>>>>> 98fd6b4527f9b2e44d7ca2e4e5754723686c00ca
-
-from django.http import HttpResponse
-
-<<<<<<< HEAD
+```
+```
 <html>
     <head>
         <title>
@@ -446,31 +437,17 @@ mmmhospital.html
 
 ## OUTPUT
 
+![alt text](image.png)  
 
-![alt text](image.png)
-=======
-def home(request):
-    return render(request,'web4.html')
-~~~
-## OUTPUT
-![Screenshot 2025-05-01 220729](https://github.com/user-attachments/assets/3bbe402b-f5b2-4c9f-aef7-c1588c16ce77)
-![Screenshot 2025-05-01 220746](https://github.com/user-attachments/assets/08ac3a73-880c-4b1b-98db-834726de360a)
-![Screenshot 2025-05-01 220803](https://github.com/user-attachments/assets/63e34f94-99e0-4311-b8c7-b37d86180615)
-![Screenshot 2025-05-01 220817](https://github.com/user-attachments/assets/341ed587-151b-4011-8c49-17b035e76db4)
-![Screenshot 2025-05-01 220909](https://github.com/user-attachments/assets/42040311-99a1-4b66-b751-4ded633dedf2)
->>>>>>> 98fd6b4527f9b2e44d7ca2e4e5754723686c00ca
+![alt text](<Screenshot (33).png>)  
 
-![alt text](<Screenshot (33).png>) 
+![alt text](<Screenshot (34).png>)  
 
-![alt text](<Screenshot (34).png>) 
+![alt text](<Screenshot (35).png>)  
 
-![alt text](<Screenshot (35).png>) 
+![alt text](<Screenshot (36).png>)  
 
-![alt text](<Screenshot (36).png>) 
-
-![alt text](<Screenshot (37).png>)
-
-
+![alt text](<Screenshot (37).png>)  
 
 
 ## RESULT
