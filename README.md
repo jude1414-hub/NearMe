@@ -41,7 +41,7 @@ map.html
             ANNA NAGAR
         </h1>
         <h2 align="center" style="background-color: blanchedalmond;font-style: oblique;font-family: 'Courier New', Courier, monospace;">
-            NANDA KISHOR S P
+            JUDE CELEMENT JOSE
         </h2>\
         <img src="map.png" usemap="#MyCity" height="750" width="1335">
         <map name="MyCity">
@@ -363,7 +363,7 @@ mmmhospital.html
 ## OUTPUT
 
 
-![alt text](<Screenshot (38).png>)
+![alt text](image.png)
 
 ![alt text](<Screenshot (33).png>) 
 
